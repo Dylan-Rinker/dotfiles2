@@ -5,12 +5,16 @@
 [submodule "vim/plugged/ale"]
 	path = vim/plugged/ale
 	url = https://github.com/dense-analysis/ale
+    ignore = untracked
 [submodule "vim/plugged/vim-airline"]
 	path = vim/plugged/vim-airline
 	url = https://github.com/vim-airline/vim-airline
+    ignore = untracked
 [submodule "vim/plugged/nerdtree"]
 	path = vim/plugged/nerdtree
 	url = https://github.com/preservim/nerdtree
+    ignore = untracked
 [submodule "vim/plugged/vim-fugitive"]
 	path = vim/plugged/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
+    ignore = untracked
