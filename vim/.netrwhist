@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =6
-let g:netrw_dirhist_6='/Users/dylanrinker/.putty'
-let g:netrw_dirhist_5='/Users/dylanrinker/.nvm'
-let g:netrw_dirhist_4='/Users/dylanrinker/Desktop/Personal/repos/SubversionTest/SubversionTest'
-let g:netrw_dirhist_3='/usr/local/bin'
-let g:netrw_dirhist_2='/usr/local/Cellar/z'
-let g:netrw_dirhist_1='/usr/local/Cellar/gmp'
