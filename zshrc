@@ -79,6 +79,17 @@ plugins=(git
 	vscode)
 
 source $ZSH/oh-my-zsh.sh
+function td() {
+    echo $1 >> ~/todo.txt
+}
+
+function tdl() {
+    cat ~/todo.txt
+}
+
+function tdu() {
+    sed -i '' -e '$ d' ~/todo.txt
+ }
 
 # User configuration
 
